@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @revness
-- 👀 I’m interested in ...health and tech
-- 🌱 I’m currently learning ... vue, firebase, python, pandas.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chapman.
+- 👀 I’m interested in ...health and tech.
+- 🌱 I’m currently learning ... javascript:vue, firebase, python:fastapi, postgresql. 
+- 📫 How to reach me 
 
 <!---
 revness/revness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
